@@ -5,7 +5,7 @@
     "description": "Card Games Scoring API",
     "version": "1.0.0"
   },
-  "host": "https://cardgames-xnea.onrender.com",
+  "host": "cardgames-xnea.onrender.com",
   "basePath": "/",
   "tags": [
     {
