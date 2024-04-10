@@ -8,7 +8,7 @@ const options = {
       title: 'Card Games Scoring API',
       description: 'Card Games Scoring API'
     },
-    host: 'https://cardgames-xnea.onrender.com',
+    host: 'cardgames-xnea.onrender.com',
     schemes: ['https'],
     tags: [
         {name: "Phase 10"},
